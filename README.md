@@ -31,3 +31,9 @@ devtools::install_github("x-burner-ux/scDrugHunter")
 scDrugHunter provides a tutorial
 [Quik\_start\_for\_scDrugHunter](http://htmlpreview.github.io/?https://github.com/x-burner-ux/x-burner-ux.github.io/blob/main/scDrugHunter/article/Quik_start_for_scDrugHunter.html)
 with quick example. Please also visit the documentation.
+
+## Related analysis codes
+See the application of scDrugHunter on revealing the cell type-specific drugs for severe COVID-19, [link](https://github.com/mayunlong89/scHuman_organoids_COVID19/tree/main). 
+
+## Citation
+Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19, [Cell Proliferation, 2023,e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558)
